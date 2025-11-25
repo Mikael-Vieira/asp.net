@@ -33,6 +33,7 @@
                     <li class="nav-item active"><a class="nav-link" aria-current="page" href="../Menu.aspx">Menu</a></li>
                     <li class="nav-item"><a class="nav-link" href="../Carrinho.aspx">Carrinho</a></li>
                     <li class="nav-item"><a class="nav-link" href="../Login.aspx">Entrar</a></li>
+                    <li class="nav-item"><a class="nav-link" href="Usuario.aspx">Painel ADM</a></li>
                 </ul>
                 <span class="navbar-text"></span>
             </div>
