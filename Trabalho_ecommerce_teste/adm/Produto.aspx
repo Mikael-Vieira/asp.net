@@ -16,6 +16,8 @@
 
     <link rel="stylesheet" href="/css/style.css"/>
 
+    <link rel="stylesheet" href="../css/Produto.css" />
+
 </head>
 
 <body id="body-Produto">

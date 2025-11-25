@@ -94,6 +94,60 @@
             </div>
 
         </div>
+
+        <!-- Footer -->
+        <footer class="bg-dark text-center text-lg-start text-white">
+            <div class="container p-4">
+                <div class="row">
+
+                    <!-- Sobre Nós -->
+                    <div class="col-lg-4 col-md-6 mb-4 mb-md-0">
+                        <h5 class="text-uppercase">Sobre nós</h5>
+                        <p>
+                            Somos uma empresa dedicada a oferecer os melhores produtos e serviços para nossos clientes, sempre com
+              qualidade e compromisso.
+                        </p>
+                    </div>
+
+                    <!-- Links do Site -->
+                    <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
+                        <h5 class="text-uppercase">Links</h5>
+                        <ul class="list-unstyled mb-0">
+                            <li><a href="index.html" class="text-white">Home</a></li>
+                            <li><a href="menu.html" class="text-white">Menu</a></li>
+                            <li><a href="carrinho.html" class="text-white">Carrinho</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- Contato -->
+                    <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                        <h5 id="contact">Contato</h5>
+                        <ul class="list-unstyled mb-0">
+                            <li><i class="bi bi-geo-alt"></i>Rua Esplanada da Silva, 123, Alegre</li>
+                            <li><i class="bi bi-telephone"></i>(28) 9934-5678</li>
+                            <li><i class="bi bi-envelope"></i>PizzariaLaFlorença@gmail.com</li>
+                        </ul>
+                    </div>
+
+                    <!-- Redes Sociais -->
+                    <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                        <h5 class="text-uppercase mb-0">Siga-nos</h5>
+                        <div class="mt-3">
+                            <a href="#" class="text-white me-4"><i class="bi bi-facebook"></i>Facebook</a>
+                            <a href="#" class="text-white me-4"><i class="bi bi-instagram"></i>Instagram</a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- Direitos Reservados -->
+            <div class="text-center p-3 bg-secondary">
+                © 2025 Todos os direitos reservados:
+  <a class="text-white" href="#">La Florença Pizzaria</a>
+            </div>
+        </footer>
+
     </form>
 </body>
 </html>
