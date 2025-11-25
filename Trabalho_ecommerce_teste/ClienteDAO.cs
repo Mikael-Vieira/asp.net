@@ -48,5 +48,21 @@ namespace Trabalho_ecommerce_teste
         
         }
 
+        internal void atualizarCliente(Clientes clienteAtualizado)
+        {
+            using (var ctx = new LaFlorencaEntities())
+            {
+                var cliente = ctx.Clientes.FirstOrDefault(c => c.ClienteId == clienteAtualizado.ClienteId);
+
+                if (cliente != null)
+                {
+                    cliente.Nome = clienteAtualizado.Nome;
+                    cliente.Telefone = clienteAtualizado.Telefone;
+                    cliente.Email = clienteAtualizado.Email;
+
+                    ctx.SaveChanges();
+                }
+            }
+        }
     }
 }

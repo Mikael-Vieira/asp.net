@@ -115,7 +115,7 @@
 
                                                 
 
-                                                <a href="#" class="d-block text-center mt-3 text-secondary">Esqueceu a senha?</a>
+                                              
                                             </div>
 
 
